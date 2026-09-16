@@ -1592,7 +1592,7 @@ connections_data = [
             { "item": "Air Dash" }, 
             { "item": "Cloud Leap" }, 
             { "item": "Ledge Grab" }, 
-            { "anyof": [ { "item": "Charged Strike" }, { "item": "Trick - Long Jump with Swift Runner" } ] }
+            { "anyOf": [ { "item": "Charged Strike" }, { "item": "Trick - Long Jump with Swift Runner" } ] }
         ]
     }, 
     {
